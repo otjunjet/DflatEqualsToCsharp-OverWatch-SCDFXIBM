@@ -6,4 +6,11 @@ Efficiency is the key to our problem. With that in mind, we have came up with â€
 ## Pitch Video
 
 ## Architecture 
+![Architecture Diagram](https://github.com/jolynnn8D/DflatEqualsToCsharp-OverWatch-SCDFXIBM/blob/master/docs/architecture_diagram.png)
 
+## Getting Started
+1. Generate dataset with `generate_dataset.py`
+2. Run sample outputs with `watch.py`
+3. Inject dataset into IBM Watson's Auto AI 
+
+## Tools
