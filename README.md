@@ -8,6 +8,9 @@ Efficiency is the key to our problem. With that in mind, we have came up with â€
 
 ## Pitch Video
 
+## Detailed Description
+https://tinyurl.com/dflatequaltocsharp
+
 ## Architecture 
 ![Architecture Diagram](https://github.com/jolynnn8D/DflatEqualsToCsharp-OverWatch-SCDFXIBM/blob/master/docs/architecture_diagram.png)
 
@@ -17,3 +20,4 @@ Efficiency is the key to our problem. With that in mind, we have came up with â€
 3. Inject dataset into IBM Watson's Auto AI 
 
 ## Tools
+
